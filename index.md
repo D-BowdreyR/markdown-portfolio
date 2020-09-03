@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-<<<<<<< HEAD
-=======
 
 {% include 01-name.md %}
 
@@ -14,4 +12,3 @@ layout: default
 
 {% include 03-links.md %}
 
->>>>>>> add-images-links
