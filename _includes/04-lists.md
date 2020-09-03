@@ -1,0 +1,7 @@
+ - Coding
+ - ASP.Net Core
+ - Cross-Platform
+ - MacOS, Microsoft Windows, Linux
+ - Web First - Web Apps are good
+ - Design Thinking
+ - User Design and User Involvement
